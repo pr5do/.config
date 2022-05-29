@@ -1,0 +1,26 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,5,13,16,24,49.853
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+Virtual1 Height 1366x703=663
+Virtual1 Height 1920x1080=1040
+Virtual1 Width 1366x703=1362
+Virtual1 Width 1920x1080=956
+Virtual1 XPosition 1366x703=2
+Virtual1 XPosition 1920x1080=2
+Virtual1 YPosition 1366x703=18
+Virtual1 YPosition 1920x1080=18
+
+[Open-with settings]
+CompletionMode=1
+History=ala
+
+[Search]
+Location=Everywhere

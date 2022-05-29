@@ -1,0 +1,43 @@
+00:00:00.000179 main     VirtualBox XPCOM Server 6.1.34 r150636 linux.amd64 (May 24 2022 21:45:59) release log
+00:00:00.000181 main     Log opened 2022-05-27T22:07:55.056915000Z
+00:00:00.000181 main     Build Type: release
+00:00:00.000182 main     OS Product: Linux
+00:00:00.000183 main     OS Release: 5.15.43-1-lts
+00:00:00.000183 main     OS Version: #1 SMP Wed, 25 May 2022 14:08:34 +0000
+00:00:00.000205 main     DMI Product Name: VirtualBox
+00:00:00.000209 main     DMI Product Version: 1.2
+00:00:00.000212 main     Firmware type: UEFI
+00:00:00.000216 main     Secure Boot: Disabled
+00:00:00.000235 main     Host RAM: 3912MB (3.8GB) total, 3668MB (3.5GB) available
+00:00:00.000236 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000237 main     Process ID: 871
+00:00:00.000237 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001171 main     IPC socket path: /tmp/.vbox-prado-ipc/ipcd
+00:00:00.107112 nspr-2   VirtualBox: object creation starts
+00:00:00.107214 nspr-2   Home directory: '/home/prado/.config/VirtualBox'
+00:00:00.107292 nspr-2   Loading settings file "/home/prado/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.107658 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.111576 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/volgroup0-lv_root) --> volgroup0-lv_root
+00:00:00.111822 nspr-2   HostDnsMonitor: initializing
+00:00:00.111889 nspr-2   NAT: resolv.conf: nameserver 177.52.248.4
+00:00:00.111893 nspr-2   NAT: resolv.conf: nameserver 177.52.248.5
+00:00:00.111897 nspr-2   HostDnsMonitor: updating information
+00:00:00.111905 nspr-2   HostDnsMonitor: old information
+00:00:00.111906 nspr-2     no server entries
+00:00:00.111907 nspr-2     no domain set
+00:00:00.111908 nspr-2     no search string entries
+00:00:00.111909 nspr-2   HostDnsMonitor: new information
+00:00:00.111910 nspr-2     server 1: 177.52.248.4
+00:00:00.111912 nspr-2     server 2: 177.52.248.5
+00:00:00.111913 nspr-2     no domain set
+00:00:00.111914 nspr-2     no search string entries
+00:00:00.113394 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.114682 nspr-2   Loading settings file "/home/prado/VirtualBox VMs/arch-linux-development-machine/arch-linux-development-machine.vbox" with version "1.15-linux"
+00:00:00.114900 nspr-2   VirtualBox: object created
+00:00:00.119367 nspr-2   Saving settings file "/home/prado/VirtualBox VMs/arch-linux-development-machine/arch-linux-development-machine.vbox" with version "1.15-linux"
+00:00:05.132764 main     VirtualBox: object deletion starts
+00:00:05.132975 main     HostDnsMonitor: shutting down ...
+00:00:05.146302 main     HostDnsMonitor: shut down
+00:00:05.146366 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:10.187201 main     {00007f5b2c016d60} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:10.187567 main     VirtualBox: object deleted

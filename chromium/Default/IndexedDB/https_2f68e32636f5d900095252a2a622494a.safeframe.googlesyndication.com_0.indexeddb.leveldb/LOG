@@ -1,0 +1,6 @@
+2022/05/15-10:28:03.338 8927 Creating DB /home/prado/.config/chromium/Default/IndexedDB/https_2f68e32636f5d900095252a2a622494a.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/05/15-10:28:03.428 8927 Reusing MANIFEST /home/prado/.config/chromium/Default/IndexedDB/https_2f68e32636f5d900095252a2a622494a.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/15-10:28:35.601 8c34 Level-0 table #5: started
+2022/05/15-10:28:35.608 8c34 Level-0 table #5: 460 bytes OK
+2022/05/15-10:28:35.612 8c34 Delete type=0 #3
+2022/05/15-10:28:35.612 8c34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

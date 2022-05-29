@@ -1,0 +1,7 @@
+2022/05/28-13:10:35.852 385 Reusing MANIFEST /home/prado/.config/chromium/Profile 1/IndexedDB/https_tensorflow-dot-devsite-v2-prod-3p.appspot.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/28-13:10:35.852 385 Recovering log #3
+2022/05/28-13:10:35.853 385 Reusing old log /home/prado/.config/chromium/Profile 1/IndexedDB/https_tensorflow-dot-devsite-v2-prod-3p.appspot.com_0.indexeddb.leveldb/000003.log 
+2022/05/28-18:27:37.350 2df9 Level-0 table #5: started
+2022/05/28-18:27:37.353 2df9 Level-0 table #5: 1293 bytes OK
+2022/05/28-18:27:37.355 2df9 Delete type=0 #3
+2022/05/28-18:27:37.355 2df9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

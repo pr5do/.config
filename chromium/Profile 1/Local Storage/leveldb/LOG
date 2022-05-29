@@ -1,0 +1,6 @@
+2022/05/29-09:25:34.304 3 Reusing MANIFEST /home/prado/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2022/05/29-09:25:34.305 3 Recovering log #42
+2022/05/29-09:25:34.307 3 Reusing old log /home/prado/.config/chromium/Profile 1/Local Storage/leveldb/000042.log 
+2022/05/29-09:36:22.805 5 Level-0 table #46: started
+2022/05/29-09:36:22.813 5 Level-0 table #46: 22316 bytes OK
+2022/05/29-09:36:22.816 5 Delete type=0 #42

@@ -1,0 +1,183 @@
+{
+   "checksum": "1a3993f7fa7e29eacc5dc4867404920d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13297728658533947",
+               "guid": "4a761540-27da-466d-a6d1-ae7b2319dbdd",
+               "id": "6",
+               "name": "Using Python to build an AI to play and win SNES StreetFighter II with machine learning - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NIG4BZ8VpF4"
+            }, {
+               "date_added": "13297728698037855",
+               "guid": "6d89c97d-2083-4028-8539-045d1339fd0d",
+               "id": "8",
+               "name": "(37) Didática Tech - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/Did%C3%A1ticaTech/playlists"
+            }, {
+               "date_added": "13297729464336339",
+               "guid": "a3b8d9fa-0a29-412a-85c0-2b5817b98ea7",
+               "id": "9",
+               "name": "Gym Retro",
+               "type": "url",
+               "url": "https://openai.com/blog/gym-retro/"
+            }, {
+               "date_added": "13297729469777916",
+               "guid": "7b655c28-8b6a-4892-a860-5d08d94271a9",
+               "id": "10",
+               "name": "Bizhawk - TASVideos",
+               "type": "url",
+               "url": "https://tasvideos.org/Bizhawk"
+            }, {
+               "date_added": "13297729471870052",
+               "guid": "1303549c-7714-4fc7-b204-11cb70be6fde",
+               "id": "11",
+               "name": "MarI/O - Machine Learning for Video Games - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qv6UVOQ0F44"
+            }, {
+               "date_added": "13298169156711791",
+               "guid": "0afcd88f-d60b-4639-8acf-c929b4370975",
+               "id": "23",
+               "name": "Machine Learning Crash Course  |  Google Developers",
+               "type": "url",
+               "url": "https://developers.google.com/machine-learning/crash-course"
+            }, {
+               "date_added": "13298169322933309",
+               "guid": "dd1d1386-aec1-4333-944b-c279c73826e8",
+               "id": "24",
+               "name": "TensorFlow",
+               "type": "url",
+               "url": "https://www.tensorflow.org/"
+            }, {
+               "date_added": "13298169406549922",
+               "guid": "f445df16-b272-42d1-af33-10d92882e861",
+               "id": "25",
+               "name": "Free Deep Learning Tutorial - Deep Learning Prerequisites: The Numpy Stack in Python V2 | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/numpy-python/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-uNAKYPLfuaz.V8n._bDyNw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"
+            }, {
+               "date_added": "13298234099604074",
+               "guid": "ca06e36a-e335-447e-b444-049cd374bbc4",
+               "id": "27",
+               "name": "(106) Computational Linear Algebra 1: Matrix Math, Accuracy, Memory, Speed, & Parallelization - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8iGzBMboA0I&list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY"
+            }, {
+               "date_added": "13298234114469151",
+               "guid": "1e5e3e1c-4177-4ce8-b004-1f7386d2d8a7",
+               "id": "28",
+               "name": "(106) how to get started with linear algebra - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/results?search_query=how+to+get+started+with+linear+algebra"
+            }, {
+               "date_added": "13298234151799371",
+               "guid": "315b2c02-4dcf-453c-b79d-307cf6ac2b68",
+               "id": "29",
+               "name": "fast.ai · Making neural nets uncool again",
+               "type": "url",
+               "url": "https://www.fast.ai/"
+            } ],
+            "date_added": "13297728680139004",
+            "date_modified": "13298234151799371",
+            "guid": "2dbffebf-5a4e-4475-8b44-d57fda862761",
+            "id": "7",
+            "name": "Machine Learning",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13297729736071221",
+               "guid": "b3e11ca3-3ff1-4a74-9658-bcf354b35c51",
+               "id": "13",
+               "name": "Curso Online - Processamento de Imagens - Aula 01 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Bd0PCypQ44s&list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj"
+            }, {
+               "date_added": "13297729759081932",
+               "guid": "7da83688-7cff-46ef-9f0e-6ac6c08ff5e4",
+               "id": "14",
+               "name": "Iniciação Científica: Conceitos Básicos de Computação Gráfica - Aula 01 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=u40Opm9TZxU"
+            } ],
+            "date_added": "13297729727080148",
+            "date_modified": "13298153719896911",
+            "guid": "028e10e3-15f9-471f-a48c-f1a97c4a83b0",
+            "id": "12",
+            "name": "Graphics Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13298153719896911",
+               "guid": "f1da4c23-d918-4512-8320-016f4e891819",
+               "id": "16",
+               "name": "Rust (programming language) - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Rust_(programming_language)"
+            }, {
+               "date_added": "13298153748174435",
+               "guid": "321f555b-4a51-4d2d-85ee-d225874dbf9a",
+               "id": "18",
+               "name": "A brief history of Rust at Facebook - Engineering at Meta",
+               "type": "url",
+               "url": "https://engineering.fb.com/2021/04/29/developer-tools/rust/"
+            }, {
+               "date_added": "13298153752605379",
+               "guid": "11eab498-dfab-49f4-ae3b-98ea9095fd61",
+               "id": "19",
+               "name": "C++ - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/C%2B%2B"
+            }, {
+               "date_added": "13298153757053772",
+               "guid": "cb096275-a313-4afd-9d01-1a655902b336",
+               "id": "20",
+               "name": "Rust vs C++: an in-depth language comparison",
+               "type": "url",
+               "url": "https://www.educative.io/blog/rust-vs-cpp"
+            }, {
+               "date_added": "13298153769763799",
+               "guid": "7f8ea146-a9ea-4ce4-85b6-5800b6731e67",
+               "id": "21",
+               "name": "Go (programming language) - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Go_(programming_language)"
+            } ],
+            "date_added": "13298153745057782",
+            "date_modified": "13298169156711791",
+            "guid": "f8f07125-2da3-4f75-a9fa-0f8a9c441d84",
+            "id": "17",
+            "name": "Blockchain",
+            "type": "folder"
+         } ],
+         "date_added": "13297702857475343",
+         "date_modified": "13297729736071221",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13297702857475344",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13297702857475346",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

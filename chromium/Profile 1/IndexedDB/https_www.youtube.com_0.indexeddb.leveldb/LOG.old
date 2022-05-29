@@ -1,0 +1,12 @@
+2022/05/29-09:19:28.458 4fe Reusing MANIFEST /home/prado/.config/chromium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/29-09:19:28.458 4fe Recovering log #6
+2022/05/29-09:19:28.680 4fe Reusing old log /home/prado/.config/chromium/Profile 1/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000006.log 
+2022/05/29-09:19:44.417 4fe Level-0 table #11: started
+2022/05/29-09:19:44.448 4fe Level-0 table #11: 934128 bytes OK
+2022/05/29-09:19:44.450 4fe Delete type=0 #6
+2022/05/29-09:20:19.055 4fe Compacting 1@1 + 1@2 files
+2022/05/29-09:20:19.069 4fe Generated table #12@1: 414 keys, 43052 bytes
+2022/05/29-09:20:19.069 4fe Compacted 1@1 + 1@2 files => 43052 bytes
+2022/05/29-09:20:19.071 4fe compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/29-09:20:19.071 4fe Delete type=2 #11
+2022/05/29-09:20:19.071 4fe Delete type=2 #8
